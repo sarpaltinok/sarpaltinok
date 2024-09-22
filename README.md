@@ -3,7 +3,7 @@
 
 - 📚 Altınbaş Üniversitesi Yönetim Bilişim Sistemleri bölümünde okuyorum.
 - 💻 Python ve PHP üzerine çalışıyorum. Aktif olarak öğrenmeye devam ettiğim diller de mevcut.
-- 🎯 İlgi Alanlarım: Fitness, boks, yazılım Geliştirme, satranç
+- 🎯 İlgi Alanlarım: Fitness, boks, yazılım geliştirme, satranç
 - 📫 Bana ulaşın: [LinkedIn](https://www.linkedin.com/in/sarp-torun/) | [E-posta](mailto:s.altnoq@gmail.com)
 
 ### 💻 Kullandığım Teknolojiler:
