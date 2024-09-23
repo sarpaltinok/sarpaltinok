@@ -22,4 +22,7 @@
 #
 ### 📫 Contact Me:
 - **LinkedIn:** [Sarp Altınok](https://www.linkedin.com/in/sarpaltinok/)
-- **Email:** [s.altnoq@gmail.com](mailto:s.altnoq@gmail.com)
+- **Personel Email:** [s.altnoq@gmail.com](mailto:s.altnoq@gmail.com)
+- **Academic Email:** [223502043@ogr.altinbas.edu.tr](mailto:223502043@ogr.altinbas.edu.tr)
+
+
